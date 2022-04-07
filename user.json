@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "first_name": "ahmed",
+            "last_name": "ahmed",
+            "email": "ahmed@ahmed.com",
+            "password": "12345678",
+            "confirm_Password": "12345678",
+            "mobile_phone": "01012457842",
+            "id": 1
+        }
+    ]
+}
